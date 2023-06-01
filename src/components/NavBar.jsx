@@ -96,7 +96,7 @@ function DrawerAppBar(props) {
             <Box component="main" sx={{ p: 3 }}>
                 <Toolbar />
                 <Typography>
-                    Soy Claudio Alejandro Lasalde
+                    Soy Claudio Alejandro Lasalde, buenos días
                 </Typography>
             </Box>
         </Box>
